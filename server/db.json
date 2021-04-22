@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "ekpot@gmail.com",
+      "name": "Wizzy",
+      "password": "$2a$10$0dZZvqs9gP3x2XFEtfCtz.u67ADM9mTXBHC2NXvRRggJ85QdAwXKi",
+      "id": 2
+    },
+    {
+      "email": "alex@gmail.com",
+      "name": "Alex",
+      "password": "$2a$10$frDLas4akqJ340G9nWz01uXaN8dOSZPfYaMQNkXfEw9OZyq5x3Nq2",
+      "id": 3
+    },
+    {
+      "email": "willochs@gmail.com",
+      "name": "Willi",
+      "password": "$2a$10$Wzs3PW9datOx01mB.Pg2pO5vCL/4tqY00oqEU21iaK.XhtICf7BhW",
+      "id": 4
+    },
+    {
+      "email": "seyi@gmail.com",
+      "name": "Seyi",
+      "password": "$2a$10$EQRXVcv8OEdNgC/A1r3YQ.X46K/YsY1V0pnFCyKZSnFipSb2sxN.C",
+      "id": 5
+    },
+    {
+      "email": "jada@gmail.com",
+      "name": "Jada",
+      "password": "$2a$10$sbeO5sJIFdc07Ghpfg4vb.C85iBYFn4qPySGDQGhuZf7D7LF2e/xW",
+      "id": 6
+    },
+    {
+      "email": "Jamie@gmail.com",
+      "name": "Jamie",
+      "password": "$2a$10$l59ZHPxVChjoG2A9FYkuf..h2/WjaXo7/kQj5mbLBT50Wi5PYEU/C",
+      "id": 7
+    },
+    {
+      "email": "ehiz@gmail.com",
+      "name": "Ehis",
+      "password": "$2a$10$gI2pYs/epHIJKfULL5.Bs.CTj/M5zOiqhGbI/H5RRdK9HoUIAT3D.",
+      "id": 8
+    },
+    {
+      "email": "rukee@gospace.com",
+      "name": "",
+      "password": "$2a$10$/9xTDPbTZAaEWp4p5W1OqOfglOVwdK7z7Wekiao/A9ySnJu50bx.W",
+      "id": 9
+    },
+    {
+      "email": "cicop40811@sumwan.com",
+      "name": "Richard",
+      "password": "$2a$10$SBags1t0IxiZuWOggH4ATu8vs9BTcbt..RR/8Wu4c.d3mVjapNi1G",
+      "id": 10
+    },
+    {
+      "email": "vodarab101@sejkt.com",
+      "name": "",
+      "password": "$2a$10$gTMhNtBtNxV.0HCRFrLbOui4o6PLAkT22kixKXIWCL2Mzk63VYqIO",
+      "id": 11
+    },
+    {
+      "email": "mrrook212@gmail.com",
+      "name": "Richard",
+      "password": "$2a$10$6/fYNezpVVFQgaQFpbpoFOk.hEdwnbIOsyQ27eCC8TMKIQjMlEvna",
+      "id": 12
+    },
+    {
+      "email": "rukeeojigbo@gmail.com",
+      "name": "Rukee Ojigbo",
+      "password": "$2a$10$NCr3FqBaLjU/w8/ZlAcvKe3v3somlsDU6rTUQrqa11fVQKrIUNb5m",
+      "id": 13
+    },
+    {
+      "email": "Jenifer@gmail.com",
+      "name": "Jennifer",
+      "password": "$2a$10$ojgvr27UfNhQ9/52bwMEQej8Y4K58fK/e.07pSSi8p4327t0Cqt9a",
+      "id": 14
+    },
+    {
+      "email": "richard@gmail.com",
+      "name": "Richard",
+      "password": "$2a$10$RhhBiVE7.BPqP9ou189LhOVuAgz0FdYXhqqoCzcf36BDYyfTDUx2u",
+      "id": 15
+    },
+    {
+      "email": "we@gmail.com",
+      "name": "Rukee",
+      "password": "$2a$10$yEpvF/e1AO.67KivJIEQSekBm8WCoyti1T/0rHbUFu5fAm59IfT.i",
+      "id": 16
+    },
+    {
+      "email": "tutu@gmail.com",
+      "name": "Rukee",
+      "password": "$2a$10$1JacWoauJkIX4TiLwPFV8Of95kRlEYS2NcGtXexzIInDZI6yYiV2m",
+      "id": 17
+    },
+    {
+      "email": "ani@gmail.com",
+      "name": "",
+      "password": "$2a$10$k0nERP8j5rGJs53uDYbkPeOUAzHW.wGWmeOMY9LuZWCMJui141pHO",
+      "id": 18
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

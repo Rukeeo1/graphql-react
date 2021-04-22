@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "concurrently --kill-others \"npm run start-json-server\" \"npm run start-app\"",
+    "start-json-server": "json-server -p 5000 --watch db.json",
+    "start-app": "node index.js"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "rukee ojigbo",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^6.0.2",
+    "json-server": "^0.16.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
